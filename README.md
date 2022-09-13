@@ -1,2 +1,2 @@
-# calcula_terreno
- Software que Calcula valor do terreno por metro quadrado
+# algoritimo-e-logica
+ Repositório com estudos sobre Algoritmos e Lógica.
